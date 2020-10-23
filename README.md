@@ -52,6 +52,7 @@
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2018|Arxiv|[Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419)||
+|2019|CVPR|[Meta-SR: A Magnification-Arbitrary Network for Super-Resolution](https://arxiv.org/abs/1903.00875)||
 |2019|ICLR|[Self-tuning networks: Bilevel optimization of hyperparameters using structured best-response functions](https://arxiv.org/abs/1903.03088)||
 
 ## Model interpolation
