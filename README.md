@@ -27,11 +27,9 @@
 |2018|AAAI|[FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)|[Code](https://github.com/ethanjperez/film)|
 |2018|ECCV|[Visual Reasoning with Multi-hop Feature Modulation](https://arxiv.org/abs/1808.04446)||
 |2018|Distill|[Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)||
-|2018|ICLR-w|[Adjustable real-time style transfer](https://arxiv.org/abs/1811.08560)|
 |2019|CVPR|[A style-based generator architecture for generative adversarial networks](https://arxiv.org/abs/1812.04948)|[Code](https://github.com/NVlabs/stylegan)|
 |2019|CVPR|[Meta-SR: A Magnification-Arbitrary Network for Super-Resolution](https://arxiv.org/abs/1903.00875)||
 |2019|ICLR|[Large scale GAN training for high fidelity natural image synthesis](https://arxiv.org/abs/1809.11096)|[Code](https://github.com/sxhxliang/BigGAN-pytorch)|
-|2020|ICLR|[You Only Train Once: Loss-Conditional Training of Deep Networks](https://openreview.net/forum?id=HyxY6JHKwr)|
 
 #### Zero-shot learning
 |Year|Pub|Paper|Repo|
@@ -45,6 +43,12 @@
 |:---:|:---:|:---:|:---:|
 |2018|Arxiv|[Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419)||
 |2019|ICLR|[Self-tuning networks: Bilevel optimization of hyperparameters using structured best-response functions](https://arxiv.org/abs/1903.03088)||
+
+#### Conditioning the loss parameters
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2018|ICLR-w|[Adjustable real-time style transfer](https://arxiv.org/abs/1811.08560)|
+|2020|ICLR|[You Only Train Once: Loss-Conditional Training of Deep Networks](https://openreview.net/forum?id=HyxY6JHKwr)|
 
 #### Conditioning the task parameters
 |Year|Pub|Paper|Repo|
