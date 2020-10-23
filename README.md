@@ -14,9 +14,6 @@
 ## Table of contents
 
 - [Conditioning the network architecture](#conditioning-the-network-architecture)
-- [Conditioning the loss parameters](#conditioning-the-loss-parameters)
-- [Conditioning the task parameters](#conditioning-the-task-parameters)
-- [Hypernetworks](#hypernetworks)
 - [Model interpolation](#model-interpolation)
 
 ## Conditioning the network architecture
@@ -49,7 +46,7 @@
 |2018|Arxiv|[Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419)||
 |2019|ICLR|[Self-tuning networks: Bilevel optimization of hyperparameters using structured best-response functions](https://arxiv.org/abs/1903.03088)||
 
-## Conditioning the task parameters
+#### Conditioning the task parameters
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2012|ICML|[Learning parameterized skills](https://arxiv.org/abs/1206.6398)||
