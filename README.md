@@ -57,5 +57,6 @@
 ## Model interpolation
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
+|2018|ECCV|[ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/pdf/1809.00219.pdf)|[Code](https://github.com/xinntao/ESRGAN)|
 |2019|ICCV|[Dynamic-net: Tuning the objective without re-training](https://arxiv.org/abs/1811.08760)||
 |2019|CVPR|[Deep network interpolation for continuous imagery effect transition](https://arxiv.org/abs/1811.10515)|[Code](https://github.com/xinntao/DNI)|
