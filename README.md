@@ -29,6 +29,7 @@
 |2018|AAAI|[Visual reasoning with a general conditioning layer](https://arxiv.org/abs/1709.07871)|[Code](https://github.com/ethanjperez/film)|
 |2018|Distill|[Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)||
 |2019|CVPR|[A style-based generator architecture for generative adversarial networks](https://arxiv.org/abs/1812.04948)|[Code](https://github.com/NVlabs/stylegan)|
+|2019|CVPR|[Meta-SR: A Magnification-Arbitrary Network for Super-Resolution](https://arxiv.org/abs/1903.00875)||
 |2019|ICLR|[Large scale GAN training for high fidelity natural image synthesis](https://arxiv.org/abs/1809.11096)|[Code](https://github.com/sxhxliang/BigGAN-pytorch)|
 
 ## Conditioning the loss parameters
@@ -52,7 +53,6 @@
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2018|Arxiv|[Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419)||
-|2019|CVPR|[Meta-SR: A Magnification-Arbitrary Network for Super-Resolution](https://arxiv.org/abs/1903.00875)||
 |2019|ICLR|[Self-tuning networks: Bilevel optimization of hyperparameters using structured best-response functions](https://arxiv.org/abs/1903.03088)||
 
 ## Model interpolation
