@@ -22,15 +22,23 @@
 ## Conditioning the network architecture
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
+|2017|ICML-w|[Learning visual reasoning without strong priors](https://arxiv.org/abs/1707.03017)||
 |2017|NIPS|[Modulating early visual processing by language](https://arxiv.org/abs/1707.00683)||
 |2017|ICLR|[A learned representation for artistic style](https://arxiv.org/abs/1610.07629)|
 |2017|ICCV|[Arbitrary style transfer in real-time with adaptive instance normalization](https://arxiv.org/abs/1703.06868)|[Code](https://github.com/xunhuang1995/AdaIN-style)|
 |2017|BMVC|[Exploring the structure of a real-time, arbitrary neural artistic stylization network](https://arxiv.org/abs/1705.06830)||
 |2018|AAAI|[FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)|[Code](https://github.com/ethanjperez/film)|
+|2018|ECCV|[Visual Reasoning with Multi-hop Feature Modulation](https://arxiv.org/abs/1808.04446)||
 |2018|Distill|[Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)||
 |2019|CVPR|[A style-based generator architecture for generative adversarial networks](https://arxiv.org/abs/1812.04948)|[Code](https://github.com/NVlabs/stylegan)|
 |2019|CVPR|[Meta-SR: A Magnification-Arbitrary Network for Super-Resolution](https://arxiv.org/abs/1903.00875)||
 |2019|ICLR|[Large scale GAN training for high fidelity natural image synthesis](https://arxiv.org/abs/1809.11096)|[Code](https://github.com/sxhxliang/BigGAN-pytorch)|
+
+### Hypernetworks
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2018|Arxiv|[Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419)||
+|2019|ICLR|[Self-tuning networks: Bilevel optimization of hyperparameters using structured best-response functions](https://arxiv.org/abs/1903.03088)||
 
 ## Conditioning the loss parameters
 |Year|Pub|Paper|Repo|
@@ -48,12 +56,6 @@
 |2017|NIPS|[Hindsight experience replay](https://arxiv.org/abs/1707.01495)||
 |2018|ICRA|[End-to-end driving via conditional imitation learning](https://arxiv.org/abs/1710.02410)||
 |2017|ICLR|[Learning to act by predicting the future](https://arxiv.org/abs/1611.01779)|[Code](https://github.com/intel-isl/DirectFuturePrediction)|
-
-## Hypernetworks
-|Year|Pub|Paper|Repo|
-|:---:|:---:|:---:|:---:|
-|2018|Arxiv|[Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419)||
-|2019|ICLR|[Self-tuning networks: Bilevel optimization of hyperparameters using structured best-response functions](https://arxiv.org/abs/1903.03088)||
 
 ## Model interpolation
 |Year|Pub|Paper|Repo|
