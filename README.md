@@ -34,11 +34,20 @@
 |2019|CVPR|[Meta-SR: A Magnification-Arbitrary Network for Super-Resolution](https://arxiv.org/abs/1903.00875)||
 |2019|ICLR|[Large scale GAN training for high fidelity natural image synthesis](https://arxiv.org/abs/1809.11096)|[Code](https://github.com/sxhxliang/BigGAN-pytorch)|
 
-### Hypernetworks
+#### Zero-shot learning
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2013|NIPS|[Devise: A deep visual-semantic embedding model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41473.pdf)||
+|2013|NIPS|[Zero-shot learning through cross-modal transfer](https://arxiv.org/abs/1301.3666)||
+|2014|ICLR|[Zero-shot learning by convex combination of semantic embeddings](https://arxiv.org/abs/1312.5650)||
+
+#### Hypernetworks
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2018|Arxiv|[Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419)||
 |2019|ICLR|[Self-tuning networks: Bilevel optimization of hyperparameters using structured best-response functions](https://arxiv.org/abs/1903.03088)||
+
+
 
 ## Conditioning the loss parameters
 |Year|Pub|Paper|Repo|
