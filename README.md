@@ -19,6 +19,7 @@
 ## Conditioning the network architecture
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
+|2015|ICLR|[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 |2017|ICML-w|[Learning visual reasoning without strong priors](https://arxiv.org/abs/1707.03017)||
 |2017|NIPS|[Modulating early visual processing by language](https://arxiv.org/abs/1707.00683)||
 |2017|ICLR|[A learned representation for artistic style](https://arxiv.org/abs/1610.07629)|
