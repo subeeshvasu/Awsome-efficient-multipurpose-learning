@@ -31,6 +31,7 @@
 |2019|CVPR|[A style-based generator architecture for generative adversarial networks](https://arxiv.org/abs/1812.04948)|[Code](https://github.com/NVlabs/stylegan)|
 |2019|CVPR|[Meta-SR: A Magnification-Arbitrary Network for Super-Resolution](https://arxiv.org/abs/1903.00875)||
 |2019|ICLR|[Large scale GAN training for high fidelity natural image synthesis](https://arxiv.org/abs/1809.11096)|[Code](https://github.com/sxhxliang/BigGAN-pytorch)|
+|2020|Arxiv|[AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting](https://arxiv.org/abs/2010.12141)||
 
 #### Zero-shot learning
 |Year|Pub|Paper|Repo|
